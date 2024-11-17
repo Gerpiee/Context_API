@@ -20,6 +20,9 @@ This project is a demonstration of **ReactJS Context API**, showcasing how to ef
 
 The application adapts seamlessly to various devices, ensuring a user-friendly experience on both large and small screens.
 
+##Screenshots
+https://github.com/Gerpiee/StateFlow---Context-API-Example/issues/1
+
 ## Getting Started
 
 ### Install Dependencies
